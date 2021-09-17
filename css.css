@@ -1,0 +1,100 @@
+.login_color{
+    height: 100%;
+    background: linear-gradient(313.78deg, #2855AE -3.15%, #2855AE -3.14%, #7292CF 100%);
+}
+
+head{
+    
+
+     background: linear-gradient(313.78deg, #2855AE -3.15%, #2855AE -3.14%, #7292CF 100%); 
+
+}
+
+
+.login-formulario img{
+
+    width: 29.5rem;
+    float: right;
+    margin-top: 6.7rem;
+    align-self: flex-end;
+    margin-right: 1.5rem; }
+
+.login-formulario h2{
+    color: #ffff;
+    font-size: var(--size-h1);
+    font-weight: 600;
+    margin-top: 2.3rem;
+    margin-left: 3rem;
+
+}
+
+.login-formulario h3{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: var(--size-h3);
+    font-weight: 400;
+    margin-top: 0.4rem;
+    margin-left: 3rem;
+}
+
+.formulario{
+
+    width: 100%;
+    
+
+    background-color: #ffff;
+    border-radius: 4rem 4rem 0rem 0rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 3rem;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.formulario label{
+    color: var(--gris2);
+    margin-top: 5rem;
+
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.formulario label input{
+    height: 4rem;
+    outline: none;
+
+
+    border: 0;
+    border-bottom: 1px solid var(--gris2);
+    margin-top: 0.8rem;
+
+
+}
+
+.formulario button{
+    font-family:  'Source Sans Pro', sans-serif;
+    font-family:  'Source Sans Pro', sans-serif;
+    background: linear-gradient(313.78deg, #2855AE -3.15%, 
+    #2855AE -3.14%, #7292CF 100%);
+    border: none;
+    max-width: 31.5rem;
+    height: 5.4rem;
+    margin-top: 4rem;
+    color: #ffff;
+    font-size: var(--size-parrafo);
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    
+}
+
+.formulario a{
+    font-size: var(--size-parrafo);
+    color: var(--gris1);
+    align-self: flex-end;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
